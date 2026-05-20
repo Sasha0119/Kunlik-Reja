@@ -1,0 +1,6 @@
+{
+  "name": "Shaxsiy Kunlik Reja",
+  "description": "Shaxsiy kunlik rejalashtiruvchi va vazifalar boshqaruvi tizimi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
